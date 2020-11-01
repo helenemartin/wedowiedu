@@ -1,6 +1,11 @@
 
+This To do list with Firebase auth and Boostrap was created during a GDS cloud meetup in December 2019.
 
 https://bla-bla-be5cd.firebaseapp.com/
+
+As for the name of the app, it is inspired by a song from the Monks:
+https://youtu.be/1gaDMlPCY78
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
