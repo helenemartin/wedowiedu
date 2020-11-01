@@ -1,17 +1,6 @@
-# Lesson 3
 
-Tasks to complete;
 
-* Sign up for Firebase Authentication and create a user
-* Update the rules in Firebase to lock down "messages" to a particular user
-* Create a `LoggedIn` page component (which should be the same as our current `App.js`)
-* Create a `LoggedOut` page component (which should render our `LoginForm` component)
-* Update our current `App.js` to be aware of the users login state
-* Update all references to `messages` with `messages/{yourUserID}`
-* Bonus: Add a Logout button to the `LoggedIn` page component
-* Bonus: Create a `RegistrationForm` on the `LoggedOut` page component, basing your work off the `LoginForm` component
-
----
+https://bla-bla-be5cd.firebaseapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
